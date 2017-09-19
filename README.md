@@ -1,1 +1,1 @@
-# workshopr
+# Workshop R voor HR-Onderzoek
